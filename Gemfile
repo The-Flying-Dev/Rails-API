@@ -5,7 +5,7 @@ ruby '2.6.10'
 gem 'rails', '~> 6.1.6', '>= 6.1.6.1'
 gem 'sqlite3', '~> 1.4'
 gem 'puma', '~> 5.0'
-
+gem 'active_model_serializers', '~> 0.10.13'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
 
